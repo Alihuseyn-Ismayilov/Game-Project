@@ -1,2 +1,2 @@
 # Test_Public
-It is for test.
+First game with Java.
