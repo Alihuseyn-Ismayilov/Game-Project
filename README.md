@@ -1,2 +1,2 @@
-# Test_Public
+# Game
 First game with Java.
